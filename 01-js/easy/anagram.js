@@ -6,7 +6,7 @@
   Once you've implemented the logic, test your code by running
   - `npm run test-anagram`
 */
-//javascript solution
+//javascript solution checking two string anagram or not??
 function isAnagram(str1, str2) {
 
         // Get lengths of both strings
